@@ -10,7 +10,7 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test branch");
+            Console.WriteLine("test master");
         }
     }
 }
